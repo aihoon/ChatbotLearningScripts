@@ -1,1 +1,2 @@
-# Chatbot_Learning_Scripts
+# Chatbot Learning Scripts
+This is a repository to manage the chatbot learning scripts.
