@@ -38,3 +38,7 @@ This is a repository to manage the chatbot training scripts.
 
 7. You can update chatbot server, 52.34.51.12:8990, with the {$PROJECT_NAME} training. <br/>
    BASH/DOS> ***training_chatbot_client.sh update ${PROJECT_NAME} ${SERVER_NUM}*** <br/>
+
+## Note
+
+1. You MUST type the password of the server whenever you try to connect to the server with scp or ssh.
