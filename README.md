@@ -1,4 +1,4 @@
-# Chatbot Learning Scripts
+# Chatbot Training Scripts
 This is a repository to manage the chatbot training scripts.
 
 ## Prerequisite
